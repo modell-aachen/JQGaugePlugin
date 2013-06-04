@@ -58,7 +58,7 @@ sub handleGauge {
 	
 	my $theLines = $params->{lines} || '';
 	
-	return '';
+	return '<canvas class="gauge"></canvas>';
 }
 
 1;
