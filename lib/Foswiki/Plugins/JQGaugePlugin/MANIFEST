@@ -1,0 +1,8 @@
+!noci
+lib/Foswiki/Plugins/JQGaugePlugin/YOUR.pm
+lib/Foswiki/Plugins/JQGaugePlugin.pm 0444 Perl module
+data/System/JQGaugePlugin.txt 0644 Documentation page
+data/System/JQueryYour.txt 0644 Documentation page
+lib/Foswiki/Plugins/JQGaugePlugin/Config.spec 0444 Configuration
+pub/System/JQGaugePlugin/jquery.gauge.init.js 0444 Javascript
+pub/System/JQGaugePlugin/gauge.min.js 0444 Javascript
