@@ -1,5 +1,4 @@
 !noci
-lib/Foswiki/Plugins/JQGaugePlugin/YOUR.pm
 lib/Foswiki/Plugins/JQGaugePlugin.pm 0444 Perl module
 data/System/JQGaugePlugin.txt 0644 Documentation page
 data/System/JQueryYour.txt 0644 Documentation page
